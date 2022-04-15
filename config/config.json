@@ -1,0 +1,7 @@
+{
+    "DB_USRNAME": "root",
+    "DB_PASWORD": "",
+    "DB_PORT": "5306",
+    "DB_HOST": "127.0.0.1",
+    "DB_NAME": "crud-go"
+}
